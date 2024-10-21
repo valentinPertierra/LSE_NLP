@@ -28,6 +28,6 @@ Link: [Notebook Desafío 4](https://github.com/valentinPertierra/LSE_NLP/blob/ma
 
 ## Desafío 5 _ Sentiment Analysis
 <img src="resources/d5.png" alt="" width="400"/><br>    
-De desarrollo un modelo de Sentiment Analysis utilizando como backbone la arquitectura de BERT (Bidirectional Encoder Representations from Transformers). Como dataset se utilizaron las reseñas de usuario de Google Apps con la intención de clasificarlas en 5 categorías. En primer lugar, se utilizó la estructura de BERT como feature extractor, donde solo de entreno la capa fully connected del clasificador. Luego se realizo un finetuning con todos los parámetros entrenables.
+Se desarrollo un modelo de Sentiment Analysis utilizando como backbone la arquitectura de BERT (Bidirectional Encoder Representations from Transformers). Como dataset se utilizaron las reseñas de usuario de Google Apps con la intención de clasificarlas en 5 categorías. En primer lugar, se utilizó la estructura de BERT como feature extractor, donde solo de entreno la capa fully connected del clasificador. Luego se realizo un finetuning con todos los parámetros entrenables.
 
 Link: [Notebook Desafío 5](https://github.com/valentinPertierra/LSE_NLP/blob/main/Desafio%205/Desafio_5.ipynb)
